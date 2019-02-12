@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+*.psd
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+.sass-cache/
