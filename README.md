@@ -1,5 +1,1 @@
-# vue-cli
-
-> A Vue.js project
-
-#
+# vue and stitch initial project
